@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Shreyas G Portfolio",
+  "description": "A modern, AI-powered portfolio for Shreyas G, featuring projects, certificates, and an interactive Gemini chatbot.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
